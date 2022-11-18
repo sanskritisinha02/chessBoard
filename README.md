@@ -1,4 +1,4 @@
-Chess Board is an iOS application where imageView, buttons and Labels are used, so if one clicks on the Image of the Chess Pieces then they will get the name of that particular chess piece.
+Chess Board is an iOS application where imageView, buttons and Labels are used, so if one clicks on the Image of the Chess Pieces then they will get the name of that particular chess piece. We used constraints, outlets and actions here.
 <br />
 <br />
 <p align="center">
